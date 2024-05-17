@@ -1,2 +1,2 @@
 # Responsive-Coffee-Shop-Website
-I developed the front-end of this website using html css and javascript
+Fully responsive website design using html,css and javascript.
